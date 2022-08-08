@@ -14,7 +14,9 @@ ___
 * GTMetrix
 * Lazy Loading
 
-**The site menu is editable from googlesheets therefore user-friendly for anyone with no coding experience. Automatic updates are possible due to the use of googlesheetsAPI**
+**The site menu is editable from googlesheets therefore user-friendly for anyone with no coding experience., therefore making it possible for anyone to edit the prices**
+
+
 
 
 
